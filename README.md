@@ -101,3 +101,15 @@ https://scholar.google.com/scholar?start=10&q=An+artificially+generated+multiple
 - 其他功能确定:
   - 默认英语
   - 应该有可选年份的空间
+
+
+## 2023-11-6
+
+cite号分离, author也分离
+
+默认英语
+
+待解决的问题:
+- 多网页检索
+- cite搜索功能
+- 年份选择功能
